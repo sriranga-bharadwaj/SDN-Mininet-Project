@@ -1,6 +1,5 @@
 # SDN Packet Logger using POX Controller
-# Author: <Your Name>
-# Description:
+# Author: Sriranga Bharadwaj
 # This controller captures and logs packets (Ethernet, IP, TCP, UDP, ICMP)
 # and installs flow rules (match-action) in the switch.
 # =========================================================
